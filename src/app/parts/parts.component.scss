@@ -1,7 +1,97 @@
 #first-section{
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-top:120px;
+    padding-bottom:125px;
     margin-right: auto;
     margin-left: auto;
+    background-color:blue;
+    background-image:url('./../../assets/bg-masthead.jpg');
+    background-size: cover;
+    p{
+        color:white;
+        font-size: 33px;
+        padding-bottom:25px;
+    }
+    button{
+        margin-top:10px;
+    }
     
+}
+#second-section{
+    i{
+        font-size:55px;
+        &:hover{
+            font-size:65px;
+        }
+    }
+}
+
+#fourth-section{
+    img{
+        border-radius:50%;
+        height:66%;
+        width:50%;
+    }
+    h3{
+        margin-top:100px;
+        margin-bottom:30px;
+        text-align:center;
+    }
+    img{
+        margin-bottom:10px;
+    }
+    .bottom-space{
+        margin-bottom:50px;
+        padding:15px;
+    }
+}
+
+#phone{
+    background-image:url('./../../assets/bg-showcase-1.jpg');
+    height:65vh;
+}
+
+#code{
+    background-image:url('./../../assets/bg-showcase-2.jpg');
+    height:65vh;
+}
+
+#kid{
+    background-image:url('./../../assets/bg-showcase-3.jpg');
+    height:65vh;
+}
+
+#fifth-section{
+    padding-top:120px;
+    padding-bottom:125px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color:blue;
+    background-image:url('./../../assets/bg-masthead.jpg');
+    background-size: cover;
+    p{
+        color:white;
+        font-size: 33px;
+        padding-bottom:25px;
+    }
+    button{
+        margin-top:10px;
+    }
+    
+}
+
+#final-section{
+    padding-top:75px;
+    padding-bottom:75px;
+    i{
+        padding:10px;
+        font-size:25px;
+    }
+}
+
+.space{
+    padding:150px;
+}
+
+.top-space{
+    margin-top:35px;
 }
