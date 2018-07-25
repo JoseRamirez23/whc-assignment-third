@@ -1,0 +1,12 @@
+.nav-custom{
+    height:50px;
+    background-color:white;
+    display:flex;
+    flex-direction: row;
+    width:100vw;
+    button{
+        margin:left;
+        align-self: flex-end;
+    }
+}
+
